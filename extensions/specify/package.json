@@ -33,6 +33,13 @@
       "subtitle": "Specify",
       "description": "Search your vector files in your Specify repositories (PDFs files are not supported yet)",
       "mode": "view"
+    },
+    {
+      "name": "search-documentation",
+      "title": "Search Documentation",
+      "subtitle": "Specify",
+      "description": "Search Specify documentation",
+      "mode": "view"
     }
   ],
   "preferences": [
